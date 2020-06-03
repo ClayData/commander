@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/claytonortiz/developer/c#workspace/commander/commander.csproj": {}
+    "/Users/claytonortiz/developer/c#workspace/Commander/commander.csproj": {}
   },
   "projects": {
-    "/Users/claytonortiz/developer/c#workspace/commander/commander.csproj": {
+    "/Users/claytonortiz/developer/c#workspace/Commander/commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/claytonortiz/developer/c#workspace/commander/commander.csproj",
+        "projectUniqueName": "/Users/claytonortiz/developer/c#workspace/Commander/commander.csproj",
         "projectName": "commander",
-        "projectPath": "/Users/claytonortiz/developer/c#workspace/commander/commander.csproj",
+        "projectPath": "/Users/claytonortiz/developer/c#workspace/Commander/commander.csproj",
         "packagesPath": "/Users/claytonortiz/.nuget/packages/",
-        "outputPath": "/Users/claytonortiz/developer/c#workspace/commander/obj/",
+        "outputPath": "/Users/claytonortiz/developer/c#workspace/Commander/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/claytonortiz/.nuget/NuGet/NuGet.Config"
