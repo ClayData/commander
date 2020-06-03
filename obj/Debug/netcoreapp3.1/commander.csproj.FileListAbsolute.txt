@@ -41,3 +41,5 @@
 /Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
 /Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
 /Users/claytonortiz/developer/c#workspace/Commander/obj/Debug/netcoreapp3.1/commander.csproj.CopyComplete
+/Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
