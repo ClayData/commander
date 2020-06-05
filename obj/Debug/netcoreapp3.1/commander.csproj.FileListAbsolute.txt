@@ -43,3 +43,6 @@
 /Users/claytonortiz/developer/c#workspace/Commander/obj/Debug/netcoreapp3.1/commander.csproj.CopyComplete
 /Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/AutoMapper.dll
 /Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/claytonortiz/developer/c#workspace/Commander/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
